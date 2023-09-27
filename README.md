@@ -16,10 +16,10 @@ O objetivo é permitir que usuários encontrem e aprendam mais sobre arte urbana
 ## Tecnologias
 
 - HTML
-- 
+- CSS
 - javascript  
 - NodeJS
-- MongoDB
+- PostgreSQL
 
 ## Análise de Requisitos
 
@@ -29,7 +29,7 @@ O objetivo é permitir que usuários encontrem e aprendam mais sobre arte urbana
 
 ## Projeto e Arquitetura
 
-- Arquitetura em frontend (HTML), backend (Node) e banco (MongoDB)
+- Arquitetura em frontend (HTML), backend (Node) e banco (PostegreSQL)
 - Protótipos de tela e fluxo de usuário
 - Modelagem de dados e design da API REST
 
